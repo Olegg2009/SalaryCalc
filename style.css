@@ -1,0 +1,41 @@
+body {
+    background: rgb(230, 230, 230);
+    }
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.inputNum {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    }
+input {
+    height: 100px;
+    width: 300px;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 45px;
+    border-style: none;
+    }
+button {
+    height: 100px;
+    width: 300px;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 45px;
+    border-style: none;
+    background-color: white;
+    }
+p {
+    font-size: 40px;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 45px;
+    padding: 10px;
+}
+    
